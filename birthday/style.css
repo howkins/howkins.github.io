@@ -31,7 +31,7 @@ body {
   height: 100%;
   width: 50%;
   position: absolute;
-  left: 50.1%;
+  left: 6.1%;
 }
 .inside {
   background: linear-gradient(to right, #e7e7e7, #ffffff 30%);
@@ -42,7 +42,7 @@ body {
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
-  left: 50%;
+  left: 6%;
 }
 .outside {
   -webkit-transform-style: preserve-3d;
